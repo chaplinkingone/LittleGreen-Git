@@ -11,6 +11,7 @@
 		9A9AF030276F107700D056EF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A9AF02F276F107700D056EF /* ViewController.swift */; };
 		9A9AF032276F107800D056EF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A9AF031276F107800D056EF /* Assets.xcassets */; };
 		9A9AF035276F107800D056EF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A9AF033276F107800D056EF /* Main.storyboard */; };
+		9A9AF03E276F113C00D056EF /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 9A9AF03D276F113C00D056EF /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		9A9AF034276F107800D056EF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9A9AF036276F107800D056EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9A9AF037276F107800D056EF /* LittleGreen_Git.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = LittleGreen_Git.entitlements; sourceTree = "<group>"; };
+		9A9AF03D276F113C00D056EF /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +39,7 @@
 		9A9AF021276F107700D056EF = {
 			isa = PBXGroup;
 			children = (
+				9A9AF03D276F113C00D056EF /* .gitignore */,
 				9A9AF02C276F107700D056EF /* LittleGreen-Git */,
 				9A9AF02B276F107700D056EF /* Products */,
 			);
@@ -121,6 +124,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9A9AF032276F107800D056EF /* Assets.xcassets in Resources */,
+				9A9AF03E276F113C00D056EF /* .gitignore in Resources */,
 				9A9AF035276F107800D056EF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
